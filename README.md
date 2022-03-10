@@ -1,6 +1,6 @@
 # 2 for 2 Toggle System VRC Avatars 3.0
 
-###This largely out of date and was done before avatars 3.0 allowed for bools or the increased parameter data
+### This largely out of date and was done before avatars 3.0 allowed for bools or the increased parameter data
 
 ### Toggle system for VRChat avatars 3.0, making use of 2 networked integers and animator bools to make up to 255 toggles from just 2 vrc parameters
 
